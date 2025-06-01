@@ -3,6 +3,8 @@
   8080用ソースコード。(INP,OUTのみZ80命令を使用)    
   スーパーAKI80用。xbasaki.hex をROMに焼けば動作する。    
 
+# xbasaki.hex は秋月 スーパーAKI80 用のバイナリで、そのままROMに焼けば動く。  
+
 ## 拡張 PaloAlto Tiny BASIC インタープリタ
 ### ステートメントの区切り記号は「:」に変更。
  (オリジナルは「;」。「:」はMircosoft BASICにならった)  
