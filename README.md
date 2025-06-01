@@ -1,6 +1,7 @@
 # X-paloalto-tiny-basic
   オリジナルはPalo Alto Tiny BASIC  
-  
+  8080用  
+  スーパーAKI80用。xbasaki.hex をROMに焼けば動作する。    
 ## 拡張 PaloAlto Tiny BASIC インタープリタ
 ### ステートメントの区切り記号は「:」に変更。
  (オリジナルは「;」。「:」はMircosoft BASICにならった)  
