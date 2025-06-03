@@ -1,5 +1,7 @@
 fori=1to10:?:?#3,i:forj=1toi:?#4,j,:.j:.i
 
+fori=1to10:@(i)=20-i:.i:fori=1to10:?i,@(i):.i: rem Array is "@"
+
 0rem---
 10 fori=1to10
 20  ?:?#3,i
