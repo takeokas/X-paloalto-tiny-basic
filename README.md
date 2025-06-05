@@ -1,13 +1,11 @@
 # X-paloalto-tiny-basic
+## 拡張 PaloAlto Tiny BASIC インタープリタ
   オリジナルはPalo Alto Tiny BASIC  
   8080用ソースコード。(INP,OUTのみZ80命令を使用)    
-  スーパーAKI80用。xbasaki.hex をROMに焼けば動作する。    
+  スーパーAKI80用。xbasaki.hex をROMに焼けば動作する。  
   オリジナルの Dr.Wang の Palo Alto Tiny BASICは、
   <a href="https://www.icl1900.co.uk/unix4fun/z80pack/ftp/altair/DrDobbs-1976-05-v1n5.pdf" target="_blank"> Dr.Dobb's Journal 1976/MAY の P.12 に掲載</a>  
    
-
-## 拡張 PaloAlto Tiny BASIC インタープリタ
-
 # xbasaki.hex は秋月 スーパーAKI80 用のバイナリで、そのままROMに焼けば動く。  
 
 ### ステートメントの区切り記号は「:」に変更。
